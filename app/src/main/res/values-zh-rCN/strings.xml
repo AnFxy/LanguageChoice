@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">测试深度链接</string>
+    <string name="jump_to_second_activity">选择语言</string>
+    <string name="main_text">这是简体中文</string>
+    <string name="main_button">选择语言</string>
+    <string name="dialog_title">重启</string>
+    <string name="dialog_message">你选择了新的语言，是否立即重启生效？</string>
+    <string name="dialog_positive">确定</string>
+    <string name="dialog_nagative">取消</string>
+</resources>

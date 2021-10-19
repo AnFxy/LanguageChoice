@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TesttiefeVerbindungen</string>
+    <string name="jump_to_second_activity">Sprache auswählen</string>
+    <string name="main_text">Das ist Deutsch.</string>
+    <string name="main_button">Sprache auswählen</string>
+    <string name="dialog_title">Neustart</string>
+    <string name="dialog_message">Sie haben eine neue Sprache ausgewählt. Möchten Sie sie jetzt neu starten?</string>
+    <string name="dialog_positive">bestimmen</string>
+    <string name="dialog_nagative">Stornieren</string>
+</resources>

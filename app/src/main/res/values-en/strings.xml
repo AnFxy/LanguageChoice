@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APPNAME</string>
+    <string name="jump_to_second_activity">JumpToSecondActivity</string>
+    <string name="main_text">This is English</string>
+    <string name="main_button">Choose new Language</string>
+    <string name="dialog_title">ReStart</string>
+    <string name="dialog_message">You have selected a new language. Do you want to restart it now?</string>
+    <string name="dialog_positive">Ok</string>
+    <string name="dialog_nagative">Cancel</string>
+</resources>

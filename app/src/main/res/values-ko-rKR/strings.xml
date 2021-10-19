@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">깊이 링크</string>
+    <string name="jump_to_second_activity">선택 언어</string>
+    <string name="main_text">한국어 공부 해 요.</string>
+    <string name="main_button">선택 언어</string>
+    <string name="dialog_title">다시 시작</string>
+    <string name="dialog_message">새로운 언어 를 선 택 했 습 니 다. 즉시 다시 시작 하 시 겠 습 니까?</string>
+    <string name="dialog_positive">확정하다.</string>
+    <string name="dialog_nagative">취소하다.</string>
+</resources>

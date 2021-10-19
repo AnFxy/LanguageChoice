@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test tiefe Verbindungen</string>
+    <string name="jump_to_second_activity">Scelta della lingua</string>
+
+    <string name="main_text">Questo è italiano.</string>
+    <string name="main_button">Scelta della lingua</string>
+
+    <string name="dialog_title">riavvia</string>
+    <string name="dialog_message">Hai selezionato una nuova lingua. Vuoi riavviarla adesso?</string>
+    <string name="dialog_positive">determinare</string>
+    <string name="dialog_nagative">annulla</string>
+</resources>

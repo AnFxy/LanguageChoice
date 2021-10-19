@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lien de profondeur dessai</string>
+    <string name="jump_to_second_activity">Choix de la langue</string>
+    <string name="main_text">Cest français.</string>
+    <string name="main_button">Choix de la langue</string>
+    <string name="dialog_title">Redémarrer</string>
+    <string name="dialog_message">Vous avez choisi une nouvelle langue, voulez - vous redémarrer pour prendre effet maintenant?</string>
+    <string name="dialog_positive">Cest sûr.</string>
+    <string name="dialog_nagative">Annulation</string>
+</resources>

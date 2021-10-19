@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">テストの深さリンク</string>
+    <string name="jump_to_second_activity">言語を選択</string>
+    <string name="main_text">これは日本語です</string>
+    <string name="main_button">言語を選択</string>
+    <string name="dialog_title">再起動</string>
+    <string name="dialog_message">新しい言語を選択しましたが、すぐに再起動しますか？</string>
+    <string name="dialog_positive">を選択します</string>
+    <string name="dialog_nagative">キャンセル</string>
+</resources>
